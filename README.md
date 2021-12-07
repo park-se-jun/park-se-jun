@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 - clean code
 - NFT
 ### Tech Stack
-<a href="reactjs.org"><img src ="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/></a>
-<a href="www.java.com"><img src ="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=black"/></a>
+<a href="https://reactjs.org"><img src ="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/></a>
+<a href="https://www.java.com"><img src ="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=black"/></a>
 <a href="https://ko.wikipedia.org/wiki/C_(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4)"><img src ="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=black"/></a>
 <a href="https://www.python.org/"><img src ="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
 <a href="https://ko.wikipedia.org/wiki/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8"><img src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>
