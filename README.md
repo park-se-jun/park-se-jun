@@ -29,8 +29,9 @@ Here are some ideas to get you started:
 <a href = "https://www.typescriptlang.org/"><img src ="https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=TypeScript&logoColor=white"/></a>
 <a href="https://ko.wikipedia.org/wiki/HTML"><img src ="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>
 <a href="https://ko.wikipedia.org/wiki/CSS"><img src ="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>
----
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
 <a href="https://www.java.com"><img src ="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=black"/></a>
+---
 <a href="https://ko.wikipedia.org/wiki/C_(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4)"><img src ="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=black"/></a>
 <a href="https://www.python.org/"><img src ="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
 
