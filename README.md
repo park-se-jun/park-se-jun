@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-아직 발돋움 단계에 불과한 주니어 개발자 입니다.
+아직 발돋움 단계에 불과한 주니어 개발자 입니다. 일하고 싶습니다.
 
 ### Interest
-- React, Vue
-- android, Flutter
-- TDD, OOP
+- React
+- Spring
+- TDD, DDD
 - clean code
 ### Tech Stack
 <a href="https://reactjs.org"><img src ="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/></a>
