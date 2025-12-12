@@ -1,5 +1,4 @@
 
-### Hi there 👋!!
 
 <!--
 **park-se-jun/park-se-jun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-아직 발돋움 단계에 불과한 주니어 개발자 입니다. 일하고 싶습니다.
 
 ### Interest
 - React
